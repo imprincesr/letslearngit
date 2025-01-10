@@ -5,6 +5,6 @@ public class Multiply {
         int a = 15;
         int b = 10;
 
-        System.out.println(a*b);
+        System.out.println("The Multiplication is" + (a*b));
     }
 }
